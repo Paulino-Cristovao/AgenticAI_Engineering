@@ -19,7 +19,9 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-
+*.pdf
+*.log
+*.txt 
 # Jupyter Notebook
 .ipynb_checkpoints
 
